@@ -1,6 +1,6 @@
 # Instructions:
 # Submit: Tuesday morning (before 10-am)
-# Answer each of the sections in an individual scrip
+# Answer each of the sections in an individual script
 # Answer all sections
 # Add comments and notes thoughout the script
 
